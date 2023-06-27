@@ -1,0 +1,38 @@
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color:  rgb(31, 91, 195);
+}
+
+.nav-menu a {
+  
+  margin: 0 10px;
+  padding: 5px 35px;
+  color: #75f4f0d1;
+  text-decoration: none;
+  font-size: 1.5rem;
+  
+}
+
+.nav-menu a:hover {
+  background-color: #5edfff;
+  color:#000
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* input[type="number"] {
+  -moz-appearance: textfield;
+} */
