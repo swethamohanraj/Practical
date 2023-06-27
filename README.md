@@ -1,6 +1,6 @@
-## Practical
-### Library Management 
-# Output:
+# Practical
+## Library Management 
+### Output:
 ![image](https://github.com/swethamohanraj/Practical/assets/94228215/e52fef18-92a7-491f-b592-cbba6f225a03)
 ![image](https://github.com/swethamohanraj/Practical/assets/94228215/ef50de52-f399-42f6-ba82-f3f3ad0bb797)
 
